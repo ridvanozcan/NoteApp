@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="date">Date : %1$s</string>
+    <string name="search_bar">Note Search...</string>
+    <string name="title">Title</string>
+    <string name="url">Url</string>
+    <string name="note">Note</string>
+    <string name="choose_background">Choose Note Background Color</string>
+    <string name="edited">Edited</string>
+    <string name="contentDescription">EditDeleteNote</string>
+    <string name="deleteNote">Delete Note</string>
+</resources>

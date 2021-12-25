@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="splash" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimaryDark">@android:color/white</item>
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:padding">20dp</item>
+    </style>
+</resources>

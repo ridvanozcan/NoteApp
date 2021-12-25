@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ridva/Documents/GitHub/Ridvan-Ozcan/app/src/main/res/drawable/anim.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/ridva/Documents/GitHub/Ridvan-Ozcan/app/src/main/res/drawable/ic_back.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/ridva/Documents/GitHub/Ridvan-Ozcan/app/src/main/res/drawable/ic_color_picker.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/ridva/Documents/GitHub/Ridvan-Ozcan/app/src/main/res/drawable/ic_search.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/ridva/Documents/GitHub/Ridvan-Ozcan/app/src/main/res/drawable/ic_tick.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/ridva/Documents/GitHub/Ridvan-Ozcan/app/src/main/res/drawable/search_background.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/ridva/Documents/GitHub/Ridvan-Ozcan/app/src/main/res/drawable/splash.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/ridva/Documents/GitHub/Ridvan-Ozcan/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/ridva/Documents/GitHub/Ridvan-Ozcan/app/src/main/res/layout/bottom_sheet_notes.xml" value="0.16" />
+        <entry key="..\:/Users/ridva/Documents/GitHub/Ridvan-Ozcan/app/src/main/res/layout/fragment_note.xml" value="0.11" />
+        <entry key="..\:/Users/ridva/Documents/GitHub/Ridvan-Ozcan/app/src/main/res/layout/fragment_note_add.xml" value="0.18" />
+        <entry key="..\:/Users/ridva/Documents/GitHub/Ridvan-Ozcan/app/src/main/res/layout/note_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

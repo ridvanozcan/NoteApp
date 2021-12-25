@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.thebluealliance:spectrum:0.7.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79b5b34381b3bc31b100a36f6dbf1a99/jetified-spectrum-0.7.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79b5b34381b3bc31b100a36f6dbf1a99/jetified-spectrum-0.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79b5b34381b3bc31b100a36f6dbf1a99/jetified-spectrum-0.7.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thebluealliance/spectrum/0.7.1/416f547e735f767907a6717ed901f0bc34c06bc1/spectrum-0.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thebluealliance/spectrum/0.7.1/6d60cd135afb1f7bf6d1f507509fac07c9655d0c/spectrum-0.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
