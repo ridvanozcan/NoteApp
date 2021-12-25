@@ -1,2 +1,2 @@
 # NoteApp
- Kullanıcının her türlü notu kaydetmesine/düzenlemesine/silmesine ve bunları bir listede görüntülemesine izin veren basit not uygulaması.
+Simple note app that allows the user to save/edit/delete any kind of note and display them in a list.
