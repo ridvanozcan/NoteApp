@@ -14,13 +14,10 @@ Retrofit
 Hilt
 Flow
 Databinding
-Arch Libraries (Livedata, ViewModel, Navigation ...) 
-
-
-
+Arch Libraries (Livedata, ViewModel, Navigation ...)
+Glide
+Special View
  ```
- 
- 
  
 ## Contact
 
