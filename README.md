@@ -2,8 +2,8 @@
 Simple note app that allows the user to save/edit/delete any kind of note and display them in a list.
 
 # Image
-![alt text](https://raw.githubusercontent.com/ridvanozcan/NoteApp/main/image1.jpeg?token=AFQOQ4CTKG3C35N76LXYDCDBY3YBK)
-![alt text](https://raw.githubusercontent.com/ridvanozcan/NoteApp/main/image2.jpeg?token=AFQOQ4FQ2UCYJPOAFLTRKYLBY3YCU)
+![alt text](https://raw.githubusercontent.com/ridvanozcan/NoteApp/main/image1.jpeg?token=AFQOQ4EVS6VTLAPNOMIRXLLBY3YKE)
+![alt text](https://raw.githubusercontent.com/ridvanozcan/NoteApp/main/image2.jpeg?token=AFQOQ4FWKFPLIT5QJGMJTEDBY3YME)
 
 ## About The Project
 
