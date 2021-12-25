@@ -1,5 +1,5 @@
 # NoteApp
-Simple note app that allows the user to save/edit/delete any kind of note and display them in a list.
+Note app that allows user to save/edit/delete/search any type of notes and view them in a list.
 
 # Image
 ![alt text](https://raw.githubusercontent.com/ridvanozcan/NoteApp/main/image1.jpeg?token=AFQOQ4EVS6VTLAPNOMIRXLLBY3YKE)
