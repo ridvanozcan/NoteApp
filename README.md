@@ -16,7 +16,7 @@ Clean Architecture (Viewmodel interacting with usecase and the latter interactin
 Room
 Retrofit
 Hilt
-Flow
+Coroutines 
 Databinding
 Arch Libraries (Livedata, ViewModel, Navigation ...)
 Glide
